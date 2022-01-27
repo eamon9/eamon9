@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @eamon9, nice to meet you all.
 - 👀 I’m interested in good ways to learning.
-- 🌱 I’m currently learning JavaScript, CSS, HTML
+- 🌱 I’m currently learning JAVA, (JavaScript, CSS, HTML)
 - 📫 How to reach me ... emmm, if you need me, you get me.
